@@ -1,0 +1,6 @@
+C:\git\Csharp\basic2\basic2\bin\Debug\basic2.exe.config
+C:\git\Csharp\basic2\basic2\bin\Debug\basic2.exe
+C:\git\Csharp\basic2\basic2\bin\Debug\basic2.pdb
+C:\git\Csharp\basic2\basic2\obj\Debug\basic2.csprojResolveAssemblyReference.cache
+C:\git\Csharp\basic2\basic2\obj\Debug\basic2.exe
+C:\git\Csharp\basic2\basic2\obj\Debug\basic2.pdb
